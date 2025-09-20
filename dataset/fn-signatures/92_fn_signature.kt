@@ -1,0 +1,1 @@
+fun outputValue(patterns: List<String>, output: List<String>): Int {

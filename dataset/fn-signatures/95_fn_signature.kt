@@ -1,0 +1,1 @@
+fun typeForHand(cards: String): HandTypes {

@@ -1,0 +1,1 @@
+override fun solution(input: Day9PuzzleInput): Int {

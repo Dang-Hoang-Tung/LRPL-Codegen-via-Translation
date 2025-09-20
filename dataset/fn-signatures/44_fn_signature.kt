@@ -1,0 +1,1 @@
+private fun List<String>.parseStacks(): Map<Int, MutableList<Char>> {

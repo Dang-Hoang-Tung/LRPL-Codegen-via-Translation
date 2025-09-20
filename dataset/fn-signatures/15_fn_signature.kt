@@ -1,0 +1,1 @@
+private fun checkTrees(slope: Pair<Int, Int>): Int {

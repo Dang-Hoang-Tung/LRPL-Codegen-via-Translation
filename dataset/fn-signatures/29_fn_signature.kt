@@ -1,0 +1,1 @@
+private fun traverse(nextLocations: (Point2D) -> List<Pair<Point2D, Int>>): Int {

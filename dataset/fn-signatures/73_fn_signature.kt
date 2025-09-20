@@ -1,0 +1,1 @@
+fun Grid.addSandAt(point: Point, limit: Int? = null, limitIsFloor: Boolean = false): Boolean {
