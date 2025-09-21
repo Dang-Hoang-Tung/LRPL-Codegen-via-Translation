@@ -1,1 +1,0 @@
-fun part2(input: Input): Int {

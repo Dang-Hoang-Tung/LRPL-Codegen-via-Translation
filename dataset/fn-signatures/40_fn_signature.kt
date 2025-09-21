@@ -1,1 +1,0 @@
-private fun nextPosition(generator: InfiniteGenerator<Char>, current: String, directions: Direction): String {

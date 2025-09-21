@@ -1,1 +1,0 @@
-fun nextRingNodeOptimised(i: Int) {

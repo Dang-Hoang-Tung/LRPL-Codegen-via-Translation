@@ -1,6 +1,0 @@
-check(clumsy(0) == 0)
-check(clumsy(1) == 1)
-check(clumsy(2) == 2)
-check(clumsy(3) == 6)
-check(clumsy(4) == 7)
-check(clumsy(10) == 12)

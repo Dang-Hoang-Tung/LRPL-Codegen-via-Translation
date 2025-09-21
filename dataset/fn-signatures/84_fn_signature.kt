@@ -1,1 +1,0 @@
-private fun getValue(N: Int, i: Int): Pair<Int, Int> {

@@ -1,1 +1,0 @@
-fun allNumbers(): List<Pair<Int, List<Point>>> {

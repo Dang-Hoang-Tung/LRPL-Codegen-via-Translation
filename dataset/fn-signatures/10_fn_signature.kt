@@ -1,1 +1,0 @@
-fun processLine(status: State, line: String): State {

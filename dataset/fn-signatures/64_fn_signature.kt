@@ -1,1 +1,0 @@
-private fun search(cur: Int, pe: IntArray, onesol: MutableList<Int>, n: Int) {

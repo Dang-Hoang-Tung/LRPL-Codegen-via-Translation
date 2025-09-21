@@ -1,1 +1,0 @@
-fun getGroupedCalories(input: List<String>): MutableMap<Int, List<String>> {

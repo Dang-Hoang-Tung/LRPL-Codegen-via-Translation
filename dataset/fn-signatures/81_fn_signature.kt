@@ -1,1 +1,0 @@
-fun react(polymerInput: String = input): Int {

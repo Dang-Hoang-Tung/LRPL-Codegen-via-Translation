@@ -1,1 +1,0 @@
-private fun toposort(k: Int, matrix: Array<IntArray>): List<Int> {

@@ -1,1 +1,0 @@
-fun solution(n: Int, costs: Array<IntArray>): Int {

@@ -1,1 +1,0 @@
-tailrec fun sumFiles(filesystem: MutableList<Directory>, children: List<String>, sum: Long): Long {

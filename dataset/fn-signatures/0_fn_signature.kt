@@ -1,1 +1,0 @@
-private fun IntArray.trapRainWater(): Int {

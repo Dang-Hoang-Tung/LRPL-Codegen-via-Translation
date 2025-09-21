@@ -1,1 +1,0 @@
-fun guessNumber(maxNumber: Int): Int {

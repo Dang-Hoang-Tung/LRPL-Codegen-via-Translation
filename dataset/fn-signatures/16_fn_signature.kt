@@ -1,1 +1,0 @@
-private fun potentialSteps(position: Position, locations: List<List<Int>>): List<Position> {

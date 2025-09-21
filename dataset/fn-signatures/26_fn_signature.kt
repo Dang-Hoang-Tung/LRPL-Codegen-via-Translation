@@ -1,1 +1,0 @@
-fun <T : Any> List<T>.split(isMarker: (T) -> Boolean): List<List<T>> {

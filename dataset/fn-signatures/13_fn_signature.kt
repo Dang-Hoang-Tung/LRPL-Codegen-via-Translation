@@ -1,1 +1,0 @@
-private fun parsePacket(packetString: String, index: Int = 1): Pair<Packet, Int> {
